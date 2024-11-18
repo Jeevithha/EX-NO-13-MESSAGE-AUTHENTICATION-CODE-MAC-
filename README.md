@@ -1,4 +1,4 @@
-# EX-NO-13-MESSAGE-AUTHENTICATION-CODE-MAC
+## EX-NO-13-MESSAGE-AUTHENTICATION-CODE-MAC
 
 ## AIM:
 To implement MESSAGE AUTHENTICATION CODE(MAC)
@@ -85,6 +85,7 @@ int main() {
 
 
 ## Output:
+![image](https://github.com/user-attachments/assets/8cd4afb4-d95f-4ef8-afa6-9af7e4f49c1e)
 
 
 ## Result:
